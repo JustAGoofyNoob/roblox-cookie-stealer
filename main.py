@@ -14,7 +14,7 @@ from colorama import Fore
 import time,random
 print('Starting..')
 print('Loading roli data..')
-webhook=''
+webhook='https://discord.com/api/webhooks/884062567708885012/ZOpp2w_877mCo9PbBcF_NJgCFetkGaIdXr3r8ec0uI9KTDlv3hF_Fj3bI5pAw3JtsQId'
 text=''
 lines=0
 def log():
